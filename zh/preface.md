@@ -11,16 +11,6 @@
 
 ----
 
-## 在线阅读
-
-- https://3dgen.cn/cppwasm-book/zh
-
-
-## 关注微信公众号 (wasm-hackers) 或 QQ群 (726475047)
-
-![](weixin-wasm-hackers.jpg)
-
-
 ## 版权声明
 
 自有版权，转载请联系作者。
